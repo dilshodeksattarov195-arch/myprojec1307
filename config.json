@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authpncrypt",
+        "uuid": 12693584,
+        "checksum": "lv9xjo"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
